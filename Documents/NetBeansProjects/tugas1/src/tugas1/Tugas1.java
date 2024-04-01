@@ -4,8 +4,8 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 /**
  *
- * @author Prince Kouu
- * TGL : 2024 - 03 - 28
+ * @author Arsa Aryana
+ * TGL : 2024 - 03 - 31
  */
 public class Tugas1 {
 
